@@ -1,0 +1,56 @@
+  .me {
+    height: 100px;
+    width: 100px;
+    margin-left: 20px;
+    display: flex;
+  }
+
+  .header{
+    display: flex;
+    justify-content: flex-start;
+    font-size: 25px;
+    font-family: 'Satisfy', cursive;
+    color: green;
+  }
+  
+  .media-container {
+    color: white;
+    background-color: midnightblue;
+    border: double 5px crimson;
+    padding: 15px;
+  }
+  
+  .media {
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+  .logos {
+    height: 65px;
+    width: 70px;
+  }
+
+  ul {
+    color: green;
+    font-family: 'Satisfy', cursive;
+  }
+
+  li {
+      font-size: 30px;
+  }
+
+  .email {
+    height: 50px;
+    width: 50px;
+  }
+
+  .repo {
+    font-family: 'Satisfy', cursive;
+  }
+
+  .footer-container {
+    background-color: midnightblue;
+    border: double 5px crimson;
+    display: flex;
+    align-content: flex-end;
+  }
